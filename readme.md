@@ -2,6 +2,10 @@
 
 A Machine Learning project that predicts machine failure using operating conditions such as temperature, rotational speed, torque, and tool wear.
 
+## 🚀 [Live Demo](https://tatamachinefailureprediction-gwyl9ugb2yx42jgf54zqun.streamlit.app/)
+
+The application is built using Streamlit and can currently be run locally.
+
 ## 📁 Project Structure
 
 ```text
@@ -39,17 +43,11 @@ TATA_MACHINE_FAILURE_PREDICTION/
 └── .gitignore
 ```
 
-## 🚀 Live Demo
-
-**Coming Soon**
-
-The application is built using Streamlit and can currently be run locally.
-
 ## 📸 Screenshots
 
-![Machine Failure Prediction App](models/app_screenshot.png)
+models/Screenshot 2026-09-03 120835.png
 
-![Machine Failure Prediction Result](models/failure_prediction.png)
+models/Screenshot 2026-09-03 120835.png
 
 ![Confusion Matrix](models/confusion_matrix.png)
 
