@@ -45,9 +45,9 @@ TATA_MACHINE_FAILURE_PREDICTION/
 
 ## 📸 Screenshots
 
-models/Screenshot 2026-09-03 120835.png
+![Machine Failure Prediction App](models/SS1.png)
 
-models/Screenshot 2026-09-03 120835.png
+![Machine Failure Prediction App](models/SS2.png)
 
 ![Confusion Matrix](models/confusion_matrix.png)
 
