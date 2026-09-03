@@ -4,7 +4,7 @@ A Machine Learning project that predicts machine failure using operating conditi
 
 ## 🚀 Live Demo
 
-**Coming Soon**
+(https://tatamachinefailureprediction-gwyl9ugb2yx42jgf54zqun.streamlit.app/)
 
 The application is built using Streamlit and can currently be run locally.
 
